@@ -28,13 +28,4 @@
     <url>http://binary.ibm.com/nexus/content/repositories/releases</url>
   </repository>
 </distributionManagement>
-  <build>
-    <plugins>
-  <plugin>
-    <groupId>org.codehaus.mojo</groupId>
-    <artifactId>sonar-maven-plugin</artifactId>
-    <version>3.0.2</version>
-</plugin>
-    </plugins>
-  </build>
 </project>
